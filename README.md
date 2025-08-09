@@ -1,14 +1,15 @@
-## About The Project 🎮
+# About The Project 🎮
 
-This is a clone of the classic PlayStation One homepage, recreated to bring back that nostalgic 90s gaming vibe.  
-You can explore the original layout with menus, game previews, and cool retro graphics.  
-It’s designed to look just like the real thing, down to the fonts and colors.  
-The site works well on both desktop and mobile, so you can enjoy the throwback anywhere.  
-It’s a fun project for anyone who loves old-school gaming or wants to practice building pixel-perfect UIs.  
-Navigation is simple and intuitive, just like the original PlayStation site.  
-The project also shows how to recreate vintage designs using modern web tools.  
-Great for fans of PlayStation history or web developers interested in UI cloning.  
-It’s not a fully functional store, but it captures the style and feel perfectly.  
-Perfect if you want a nostalgic trip or a portfolio piece showing attention to detail.
+This is a recreation of the original PlayStation One homepage, bringing back those classic 90s gaming vibes.  
+You can check out the old-school layout, menus, and game previews just like on the real site.  
+It’s designed to look and feel authentic, with all the retro fonts and colors.  
+The site works smoothly on both desktop and mobile, so you can enjoy the nostalgia anywhere.  
+It’s a fun little project for anyone who loves vintage gaming or wants to practice building pixel-perfect designs.  
+Navigating the site feels just like the original, simple and straightforward.  
+It’s a cool way to see how you can use modern web tools to recreate old-school styles.  
+This isn’t a real store or functional site, but it nails the look and feel perfectly.  
+If you’re a PlayStation fan or just love retro web design, this project is for you.  
+A nice throwback and a solid portfolio piece showing attention to detail.
+
 
 [View Demo](https://play-station-clone-gray.vercel.app/)
